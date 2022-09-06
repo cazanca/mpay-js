@@ -69,7 +69,7 @@ npm i mpay-js
 const Mpay = require('mpay-js')
 const pay = new Mpay({apiKey: "API_KEY", publicKey: "PUBLIC_KEY"})
 ```
-You can find API and PUBLIC and API key on [Mpesa Developer](https://developer.mpesa.vm.co.mz/)
+You can find API:KEY and PUBLIC_KEY on [Mpesa Developer](https://developer.mpesa.vm.co.mz/)
 
 ### C2B
 
