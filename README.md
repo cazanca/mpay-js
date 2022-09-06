@@ -1,7 +1,7 @@
 <h1 align="center"> MPay </h1> <br>
 
-[![NPM Version][npm-image]][npm-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![NPM Version][npm-image]][https://www.npmjs.com/package/mpay-js]
+[![Downloads Stats][npm-downloads]][https://www.npmjs.com/package/mpay-js]
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
