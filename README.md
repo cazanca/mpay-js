@@ -1,7 +1,6 @@
 <h1 align="center"> MPay </h1> <br>
 
-[![NPM Version][npm-image]][https://www.npmjs.com/package/mpay-js]
-[![Downloads Stats][npm-downloads]][https://www.npmjs.com/package/mpay-js]
+<h4 align="center">A Javascript library that allows easy integration of MPesa payment services in your application.</h4>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
